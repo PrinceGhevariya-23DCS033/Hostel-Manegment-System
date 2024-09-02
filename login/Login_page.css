@@ -1,0 +1,98 @@
+*{
+    color: white;
+}
+
+#bg{
+    margin-top: 17%;
+}
+#tit{
+    height: 40px;;
+    width: 120px;
+    font-size: 35px;
+    display: flex;
+    margin-left: 690px;
+    justify-content: center;
+    border: solid blue;
+}
+
+body{
+    background-color: rgb(10, 1, 15);
+}
+
+.userid{
+    color: black;
+    font-size: 30px;
+
+
+}
+.laberid{
+    font-size: 30px;
+}
+
+#submit{
+    color: blue;
+}
+#reset{
+    color: blue;
+}
+
+#username{
+    height: 45px;
+}
+#pass{
+    height: 45px;
+}
+
+#mainus{
+    height: min-content;
+    width: 35.5%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+   
+    border: solid blue;
+
+}
+#us{
+    display: flex;
+    flex-direction: row;
+    
+    height:40px;
+    width: 160px;
+
+    
+}
+
+#ustext{
+    height: 50px;
+    width: 60px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#pasmain{
+    height: min-content;
+    width: 35.5%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+    border: solid blue;
+
+}
+#pas{
+    display: flex;
+    flex-direction: row;
+    
+    height:40px;
+    width: 160px;
+
+    
+}
+#but{
+    height: 50px;
+    width: 14%;
+    margin-left: 650px;
+    border: solid blue;
+
+}
